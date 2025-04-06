@@ -1,0 +1,13 @@
+/node_modules/
+*.db
+*.log
+
+# React Router
+/.react-router/
+/build/
+
+# system
+.DS_Store
+*.vscode
+.idea
+g
